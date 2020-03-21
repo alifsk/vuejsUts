@@ -1,0 +1,217 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nama": "Aegis Boost",
+      "harga": "IDR 370.000",
+      "foto": "produk1.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "Hexsohm V3",
+      "harga": "IDR 3.000.000",
+      "foto": "produk4.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "DUA - Blueberry Butter Toast",
+      "harga": "IDR 150.000",
+      "foto": "produk17.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "IJOY Shogun univ",
+      "harga": "IDR 530.000",
+      "foto": "produk5.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "Vapoo Vinci",
+      "harga": "IDR 380.000",
+      "foto": "produk2.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "Banana Licious",
+      "harga": "IDR 150.000",
+      "foto": "produk7.jpg"
+    },
+    {
+      "id": "7",
+      "nama": "Xcalibur",
+      "harga": "IDR 270.000",
+      "foto": "produk3.jpg"
+    },
+    {
+      "id": "8",
+      "nama": "Smok Alien 220W",
+      "harga": "IDR 750.000",
+      "foto": "produk14.jpg"
+    },
+    {
+      "id": "9",
+      "nama": "Premium Donut's Blueberry",
+      "harga": "IDR 150.000",
+      "foto": "produk18.jpg"
+    },
+    {
+      "id": "10",
+      "nama": "Lost Vape Origin Q Pod kit",
+      "harga": "IDR 320.000",
+      "foto": "produk12.jpg"
+    },
+    {
+      "id": "11",
+      "nama": "CUB R57",
+      "harga": "IDR 310.000",
+      "foto": "produk6.jpg"
+    },
+    {
+      "id": "12",
+      "nama": "Vaporesso Target PM80",
+      "harga": "IDR 340.000",
+      "foto": "produk11.jpg"
+    },
+    {
+      "id": "13",
+      "nama": "Berry Mochi",
+      "harga": "IDR 180.000",
+      "foto": "produk8.jpg"
+    },
+    {
+      "id": "14",
+      "nama": "Smok RPM 40",
+      "harga": "IDR 270.000",
+      "foto": "produk10.jpg"
+    },
+    {
+      "id": "15",
+      "nama": "JAC Vapour Series B DNA75",
+      "harga": "IDR 850.000",
+      "foto": "produk15.jpg"
+    },
+    {
+      "id": "16",
+      "nama": "Gorilla Jam - Kiwi Jam",
+      "harga": "IDR 150.000",
+      "foto": "produk9.jpg"
+    }
+  ],
+  "pod": [
+    {
+      "id": "1",
+      "nama": "Aegis Boost",
+      "harga": "IDR 370.000",
+      "foto": "produk1.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "Vapoo Vinci",
+      "harga": "IDR 380.000",
+      "foto": "produk2.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "Xcalibur",
+      "harga": "IDR 270.000",
+      "foto": "produk3.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "Smok RPM 40",
+      "harga": "IDR 270.000",
+      "foto": "produk10.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "Vaporesso Target PM80",
+      "harga": "IDR 340.000",
+      "foto": "produk11.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "Lost Vape Origin Q Pod kit",
+      "harga": "IDR 320.000",
+      "foto": "produk12.jpg"
+    }
+  ],
+  "mod": [
+    {
+      "id": "1",
+      "nama": "Hexsohm V3",
+      "harga": "IDR 3.000.000",
+      "foto": "produk4.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "IJOY Shogun univ",
+      "harga": "IDR 530.000",
+      "foto": "produk5.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "CUB R57",
+      "harga": "IDR 310.000",
+      "foto": "produk6.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "GeekVape Aegis X 200W",
+      "harga": "IDR 700.000",
+      "foto": "produk13.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "Smok Alien 220W",
+      "harga": "IDR 750.000",
+      "foto": "produk14.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "JAC Vapour Series B DNA75",
+      "harga": "IDR 850.000",
+      "foto": "produk15.jpg"
+    }
+  ],
+  "liquid": [
+    {
+      "id": "1",
+      "nama": "Banana Licious",
+      "harga": "IDR 150.000",
+      "foto": "produk7.jpg"
+    },
+    {
+      "id": "2",
+      "nama": "Berry Mochi",
+      "harga": "IDR 180.000",
+      "foto": "produk8.jpg"
+    },
+    {
+      "id": "3",
+      "nama": "Gorilla Jam - Kiwi Jam",
+      "harga": "IDR 150.000",
+      "foto": "produk9.jpg"
+    },
+    {
+      "id": "4",
+      "nama": "Mighty Grape Bubblegum",
+      "harga": "IDR 160.000",
+      "foto": "produk16.jpg"
+    },
+    {
+      "id": "5",
+      "nama": "DUA - Blueberry Butter Toast",
+      "harga": "IDR 150.000",
+      "foto": "produk17.jpg"
+    },
+    {
+      "id": "6",
+      "nama": "Premium Donut's Blueberry",
+      "harga": "IDR 150.000",
+      "foto": "produk18.jpg"
+    }
+  ],
+  "test": {
+    "name": "alifsk"
+  }
+}
